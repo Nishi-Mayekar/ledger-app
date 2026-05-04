@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ledger",
+    "slug": "ledger-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#EBE7DA"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ledger.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#EBE7DA"
+      },
+      "package": "com.ledger.app",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
